@@ -1,18 +1,15 @@
 <?php
 
-$hostname = "mysql.hostinger.in";
-$username = "u714414987_user";
-$password = "pass12345";
-$dbname = "u714414987_capo";
+require "connect.php";
 
 echo'yo bro';
 
-$con = mysqli_connect($hostname, $username, $password, $dbname);
+//$conn= mysqli_connect($hostname, $username, $password, $dbname);
 if (mysqli_connect_errno())
 {
     echo "Failed to connect to MySQL: " . mysqli_connect_error();
 }
-if ($con == true)
+if ($conn == true)
 {
     echo "good connect to MySQL: " ;
 }
@@ -34,9 +31,9 @@ if(!isset($pword)){echo 'passsword is blank' ; die;}
 
 $Sql_Query = "insert into user_details(u_id, u_name, u_email, u_college, u_dob, u_sex, u_pass, u_enroll, u_fb )values ('$mob_no' , '$name' , '$email', '$college' , '$dob' , '$sex' , '$pword' , '$enroll' , '$fb_link' )";
 //$Sql_Query_2 = "  INSERT INTO `user_login` (u_id, password) VALUES ('$mob_no'  , '$pword' ) "; 
-if(mysqli_query($con, $Sql_Query)){ echo'Data Inserted Successfully';}else{echo " Data Not added!" ;}
+if(mysqli_query($conn, $Sql_Query)){ echo'Data Inserted Successfully';}else{echo " Data Not added!" ;}
 //if(mysqli_query($con, $Sql_Query_2)){ echo'You may login ';}else{echo 'Something Went wrong! Message us!' ;}
 
-mysqli_close($con); 
+mysqli_close($conn); 
 
 ?>

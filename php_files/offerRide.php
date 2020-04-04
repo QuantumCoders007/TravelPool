@@ -11,19 +11,19 @@ $ToTime = $_POST['toTime'];
 $Seats = $_POST['seats'];
 $Extras = $_POST['extra'];
 
-$Pp1 = $_POST['Pp1'];
-$Pp1Time =$_POST['Pp1Time'];
-$Pp1Price =$_POST['Pp1Price'];
+$Pp1 = $_POST['pp1'];
+$Pp1Time =$_POST['pp1Time'];
+$Pp1Price =$_POST['pp1Price'];
 
-$Pp2 = $_POST['Pp2'];
-$Pp2Time = $_POST['Pp2Time'];
-$Pp2Price = $_POST['Pp2Price'];
+$Pp2 = $_POST['pp2'];
+$Pp2Time = $_POST['pp2Time'];
+$Pp2Price = $_POST['pp2Price'];
 
-$Pp3 = $_POST['Pp3'];
-$Pp3Time = $_POST['Pp3Time'];
-$Pp3Price = $_POST['Pp3Price'];
+$Pp3 = $_POST['pp3'];
+$Pp3Time = $_POST['pp3Time'];
+$Pp3Price = $_POST['pp3Price'];
 
-$r_id = "9999";
+$r_id = "9";
 
 if(!isset($u_id)){echo 'id is blank.NO INPUT' ; die;}
 if(!isset($Seats)){echo 'Seats is blank' ; die;}
