@@ -1,0 +1,211 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:2:1-54:12
+MERGED from [com.android.support:design:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\design-25.1.0.aar\7a07a7c1d3cb9c9824093589a3c2d497\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\1df2cac17b75f4c95f7bfa8dc4181f2f\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7d3db0a1f6ba9a5ea3dcd7e15332af68\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\transition-25.1.0.aar\6f9d0c5fef917fd0ac5e302fbbf2d869\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\18d4c72da090ac8ab8efce18bd3e9fb0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\1ad6a1702acc8a18bbaa6ec747bbab87\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\9ac1f1552bf3f75d51f15920003fe856\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\1e3b5ea94e9964f98cee2325198402c5\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.1.0.aar\a627bc4e4b85c3b037adef12381c1182\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\3bdd54e81fc8130e53d30b433db3b9c8\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\26e345803d0098802eb510269cd53613\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\4f6aeddd6b748ea52de5cb756b174092\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\158e5234def96b60685eb13b0f75fc58\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\976135bebbe008d778f9463560b9bae4\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:2:1-54:12
+	package
+		ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:2:1-54:12
+		INJECTED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:2:1-54:12
+		INJECTED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:5:5-71
+	android:name
+		ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:5:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:7:5-72
+	android:name
+		ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:7:22-69
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:12:22-64
+application
+ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:14:5-52:19
+MERGED from [com.android.support:design:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\design-25.1.0.aar\7a07a7c1d3cb9c9824093589a3c2d497\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\design-25.1.0.aar\7a07a7c1d3cb9c9824093589a3c2d497\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\1df2cac17b75f4c95f7bfa8dc4181f2f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\1df2cac17b75f4c95f7bfa8dc4181f2f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7d3db0a1f6ba9a5ea3dcd7e15332af68\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7d3db0a1f6ba9a5ea3dcd7e15332af68\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:transition:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\transition-25.1.0.aar\6f9d0c5fef917fd0ac5e302fbbf2d869\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\transition-25.1.0.aar\6f9d0c5fef917fd0ac5e302fbbf2d869\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\18d4c72da090ac8ab8efce18bd3e9fb0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\18d4c72da090ac8ab8efce18bd3e9fb0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\1ad6a1702acc8a18bbaa6ec747bbab87\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\1ad6a1702acc8a18bbaa6ec747bbab87\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\9ac1f1552bf3f75d51f15920003fe856\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\9ac1f1552bf3f75d51f15920003fe856\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\1e3b5ea94e9964f98cee2325198402c5\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\1e3b5ea94e9964f98cee2325198402c5\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\3bdd54e81fc8130e53d30b433db3b9c8\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\3bdd54e81fc8130e53d30b433db3b9c8\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\26e345803d0098802eb510269cd53613\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\26e345803d0098802eb510269cd53613\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\4f6aeddd6b748ea52de5cb756b174092\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\4f6aeddd6b748ea52de5cb756b174092\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\158e5234def96b60685eb13b0f75fc58\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\158e5234def96b60685eb13b0f75fc58\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\976135bebbe008d778f9463560b9bae4\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\976135bebbe008d778f9463560b9bae4\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:17:9-41
+	android:roundIcon
+		ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:18:9-46
+	android:icon
+		ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:16:9-41
+	android:allowBackup
+		ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:20:9-40
+activity#com.santlani.carpool.FirstActivity
+ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:21:9-30:20
+	android:label
+		ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:23:13-45
+	android:theme
+		ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:24:13-56
+	android:name
+		ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:22:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:28:27-74
+activity#com.santlani.carpool.MyProfile
+ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:31:9-34:59
+	android:label
+		ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:33:13-62
+	android:theme
+		ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:34:13-56
+	android:name
+		ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:32:13-38
+activity#com.santlani.carpool.LetsCapo
+ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:35:9-38:59
+	android:label
+		ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:37:13-61
+	android:theme
+		ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:36:13-37
+activity#com.santlani.carpool.MainActivity
+ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:39:9-42:59
+	android:label
+		ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:41:13-65
+	android:theme
+		ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:42:13-56
+	android:name
+		ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:40:13-41
+activity#com.santlani.carpool.GetCapo
+ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:43:9-46:59
+	android:label
+		ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:45:13-60
+	android:theme
+		ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:46:13-56
+	android:name
+		ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:44:13-36
+activity#com.santlani.carpool.Track
+ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:47:9-50:59
+	android:label
+		ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:49:13-57
+	android:theme
+		ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:50:13-56
+	android:name
+		ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:48:13-34
+activity#com.santlani.carpool.LoginBaseActivity
+ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:51:9-55
+	android:name
+		ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml:51:19-52
+uses-sdk
+INJECTED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\design-25.1.0.aar\7a07a7c1d3cb9c9824093589a3c2d497\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\design-25.1.0.aar\7a07a7c1d3cb9c9824093589a3c2d497\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\1df2cac17b75f4c95f7bfa8dc4181f2f\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\1df2cac17b75f4c95f7bfa8dc4181f2f\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7d3db0a1f6ba9a5ea3dcd7e15332af68\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7d3db0a1f6ba9a5ea3dcd7e15332af68\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:transition:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\transition-25.1.0.aar\6f9d0c5fef917fd0ac5e302fbbf2d869\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\transition-25.1.0.aar\6f9d0c5fef917fd0ac5e302fbbf2d869\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\18d4c72da090ac8ab8efce18bd3e9fb0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\18d4c72da090ac8ab8efce18bd3e9fb0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\1ad6a1702acc8a18bbaa6ec747bbab87\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\1ad6a1702acc8a18bbaa6ec747bbab87\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\9ac1f1552bf3f75d51f15920003fe856\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\9ac1f1552bf3f75d51f15920003fe856\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\1e3b5ea94e9964f98cee2325198402c5\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\1e3b5ea94e9964f98cee2325198402c5\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.1.0.aar\a627bc4e4b85c3b037adef12381c1182\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.1.0.aar\a627bc4e4b85c3b037adef12381c1182\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\3bdd54e81fc8130e53d30b433db3b9c8\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\3bdd54e81fc8130e53d30b433db3b9c8\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\26e345803d0098802eb510269cd53613\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\26e345803d0098802eb510269cd53613\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\4f6aeddd6b748ea52de5cb756b174092\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\4f6aeddd6b748ea52de5cb756b174092\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\158e5234def96b60685eb13b0f75fc58\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\158e5234def96b60685eb13b0f75fc58\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\976135bebbe008d778f9463560b9bae4\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\976135bebbe008d778f9463560b9bae4\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.0] C:\Users\santl\.gradle\caches\transforms-1\files-1.1\design-25.1.0.aar\7a07a7c1d3cb9c9824093589a3c2d497\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\santl\AndroidStudioProjects\carpool\carpool\app\src\main\AndroidManifest.xml
