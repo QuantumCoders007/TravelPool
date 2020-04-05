@@ -1,0 +1,4 @@
+#Sun Apr 05 00:04:17 IST 2020
+base.0=F\:\\Chaitanya\\Programming\\carpool\\carpool_major_project\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

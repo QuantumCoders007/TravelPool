@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\santl\\AndroidStudioProjects\\carpool\\carpool\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "outputFile": "F:\\Chaitanya\\Programming\\carpool\\carpool_major_project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\santl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\1df2cac17b75f4c95f7bfa8dc4181f2f\\res\\values-v11\\values-v11.xml",
+                    "source": "C:\\Users\\Chaitanya V\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\8932281f673ea1cf2421cd8dd6241fa1\\res\\values-v11\\values-v11.xml",
                     "from": {
                         "startLines": "2,8,14,20,26,32,38,39,43,47,48,52,56,57,61,66,71,76,78,80,81,82,135,189",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
